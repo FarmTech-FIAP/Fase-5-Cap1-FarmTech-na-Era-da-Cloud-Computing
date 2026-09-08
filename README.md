@@ -52,7 +52,7 @@ Rice paddy e Rubber natural):
   importância do Random Forest — ressalva importante sobre o que os modelos realmente estão aprendendo);
 - **Conclusões finais**, com pontos fortes, limitações e próximos passos sugeridos (seção 8 do notebook).
 
-🎥 **Vídeo de demonstração (não listado, até 5 min):** `<colar aqui o link do YouTube>`
+🎥 **Vídeo de demonstração (https://youtu.be/KiZ4b51pMBc)
 
 ---
 
@@ -137,7 +137,7 @@ Portanto, embora N. Virginia seja a alternativa mais econômica, a região de S�
 
 Assim, a decisão da região AWS depende dos requisitos do projeto: N. Virginia é mais vantajosa financeiramente, enquanto São Paulo é mais adequada quando residência dos dados no Brasil e menor latência local são requisitos prioritários.
 
-🎥 **Vídeo de demonstração da calculadora AWS (não listado, até 5 min):** `<colar aqui o link do YouTube>`
+🎥 **Vídeo de demonstração da calculadora AWS (https://youtu.be/88J4UM81AxA)
 
 ---
 
